@@ -1,0 +1,70 @@
+Date : 2023-08-29 22:29:17
+Directory : c:\Users\Gonzales\Desktop\EMI
+Total : 28 files,  8327 codes, 903 comments, 187 blanks, all 9417 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          4 |      7,512 |          0 |          3 |      7,515 |
+| TypeScript         |         22 |        694 |        870 |        175 |      1,739 |
+| Prisma             |          1 |        117 |          2 |          9 |        128 |
+| JSON with Comments |          1 |          4 |         31 |          0 |         35 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                        | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                           |         28 |      8,327 |        903 |        187 |      9,417 |
+| adonis-prisma-mongodb                                                                       |         28 |      8,327 |        903 |        187 |      9,417 |
+| adonis-prisma-mongodb (Files)                                                               |          8 |      7,557 |         68 |         18 |      7,643 |
+| adonis-prisma-mongodb\app                                                                   |          3 |        432 |         19 |         59 |        510 |
+| adonis-prisma-mongodb\app\Controllers                                                       |          2 |        425 |          5 |         56 |        486 |
+| adonis-prisma-mongodb\app\Controllers\Http                                                  |          2 |        425 |          5 |         56 |        486 |
+| adonis-prisma-mongodb\app\Exceptions                                                        |          1 |          7 |         14 |          3 |         24 |
+| adonis-prisma-mongodb\commands                                                              |          1 |          3 |         15 |          2 |         20 |
+| adonis-prisma-mongodb\config                                                                |          5 |        140 |        628 |         62 |        830 |
+| adonis-prisma-mongodb\contracts                                                             |          5 |         26 |         63 |         15 |        104 |
+| adonis-prisma-mongodb\prisma                                                                |          1 |        117 |          2 |          9 |        128 |
+| adonis-prisma-mongodb\providers                                                             |          1 |         13 |          4 |          6 |         23 |
+| adonis-prisma-mongodb\start                                                                 |          2 |         19 |         54 |          7 |         80 |
+| adonis-prisma-mongodb\tests                                                                 |          2 |         20 |         50 |          9 |         79 |
+| adonis-prisma-mongodb\tests (Files)                                                         |          1 |         14 |         50 |          6 |         70 |
+| adonis-prisma-mongodb\tests\functional                                                      |          1 |          6 |          0 |          3 |          9 |
++---------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                    | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\.adonisrc.json                          | JSON               |         42 |          0 |          0 |         42 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\ace-manifest.json                       | JSON               |        101 |          0 |          1 |        102 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\app\Controllers\Http\NotasController.ts | TypeScript         |          0 |          0 |          1 |          1 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\app\Controllers\Http\TodosController.ts | TypeScript         |        425 |          5 |         55 |        485 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\app\Exceptions\Handler.ts               | TypeScript         |          7 |         14 |          3 |         24 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\commands\index.ts                       | TypeScript         |          3 |         15 |          2 |         20 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\config\app.ts                           | TypeScript         |         37 |        180 |         19 |        236 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\config\bodyparser.ts                    | TypeScript         |         42 |        154 |         16 |        212 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\config\cors.ts                          | TypeScript         |         18 |        106 |         11 |        135 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\config\drive.ts                         | TypeScript         |         15 |        125 |         10 |        150 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\config\hash.ts                          | TypeScript         |         28 |         63 |          6 |         97 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\contracts\drive.ts                      | TypeScript         |          5 |          6 |          3 |         14 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\contracts\env.ts                        | TypeScript         |          5 |         17 |          3 |         25 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\contracts\events.ts                     | TypeScript         |          4 |         26 |          2 |         32 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\contracts\hash.ts                       | TypeScript         |          5 |          6 |          3 |         14 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\contracts\tests.ts                      | TypeScript         |          7 |          8 |          4 |         19 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\env.ts                                  | TypeScript         |          9 |         13 |          3 |         25 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\package-lock.json                       | JSON               |      7,338 |          0 |          1 |      7,339 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\package.json                            | JSON               |         31 |          0 |          1 |         32 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\prisma\schema.prisma                    | Prisma             |        117 |          2 |          9 |        128 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\providers\AppProvider.ts                | TypeScript         |         13 |          4 |          6 |         23 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\server.ts                               | TypeScript         |          7 |         11 |          4 |         22 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\start\kernel.ts                         | TypeScript         |          6 |         35 |          3 |         44 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\start\routes.ts                         | TypeScript         |         13 |         19 |          4 |         36 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\test.ts                                 | TypeScript         |         25 |         13 |          8 |         46 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\tests\bootstrap.ts                      | TypeScript         |         14 |         50 |          6 |         70 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\tests\functional\hello_world.spec.ts    | TypeScript         |          6 |          0 |          3 |          9 |
+| c:\Users\Gonzales\Desktop\EMI\adonis-prisma-mongodb\tsconfig.json                           | JSON with Comments |          4 |         31 |          0 |         35 |
+| Total                                                                                       |                    |      8,327 |        903 |        187 |      9,417 |
++---------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
